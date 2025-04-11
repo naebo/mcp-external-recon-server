@@ -3,7 +3,7 @@
 A Model Context Protocol (MCP) server for performing active external reconnaissance activities against a domain. This tool provides a simple suite of reconnaissance capabilities including DNS enumeration, subdomain discovery, email security analysis, and SSL certificate inspection.
 
 ## Want to build your own?
-This project was created as a PoC for my tutorial on creating your own MCP server [here](link)
+This project was created as a PoC for my tutorial on creating your own MCP server [here](https://nae-bo.medium.com/building-your-first-offensive-security-mcp-server-dd655e258d5f)
 
 > [!CAUTION]
 > This is intended solely as a demonstration and is not production-ready. Use at your own risk. Only use MCPs that you trust to run on your machine. While this is a relatively benign tool, it does run OS commands. Do not target systems that you do not have permission to target.
