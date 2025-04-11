@@ -52,7 +52,7 @@ Open up the configuration file in any text editor. Replace the file contents wit
 			"command": "/ABSOLUTE/PATH/TO/PARENT/FOLDER/uv",
 			"args": [
 				"--directory",
-				"/ABSOLUTE/PATH/TO/PARENT/FOLDER/external-recon",
+				"/ABSOLUTE/PATH/TO/PARENT/FOLDER/mcp-external-recon-server",
 				"run",
 				"external-recon.py"
 			]
